@@ -1,0 +1,7 @@
+<browserconfig>
+  <msapplication>
+    <tile>
+      <square150x150logo src="./img/logo-footer.svg"> 
+    </tile>
+  </msapplication>
+</browserconfig>
