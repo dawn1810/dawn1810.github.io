@@ -1,7 +1,7 @@
 <browserconfig>
   <msapplication>
     <tile>
-      <square150x150logo src="./img/logo-footer.svg"> 
+      <square150x150logo src="favicon.ico"> 
     </tile>
   </msapplication>
 </browserconfig>
